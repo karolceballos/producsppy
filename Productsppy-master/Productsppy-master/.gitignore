@@ -1,0 +1,11 @@
+#IntelliJ Folder
+/.vscode/
+/.idea/
+*.iml
+
+# Java compilation target
+/target/
+
+#Eclipse class path
+.classpath
+.project
